@@ -49,7 +49,6 @@
   I am driven by the challenge of taking abstract ideas and transforming them into practical, working solutions. Whether it’s building responsive websites, powerful applications, or optimizing systems, my goal is always to deliver top-quality work that exceeds expectations. I’m always learning and growing to stay ahead in the fast-evolving tech landscape.
 </p>
 
-<h3 align="left">Current Projects:</h3>
-//<p align="left">
+<p align="left">
   
 </p>
